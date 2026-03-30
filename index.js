@@ -1,0 +1,1 @@
+require('./src/server.js'); // ajusta se seu server.js estiver dentro de src
